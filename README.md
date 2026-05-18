@@ -48,7 +48,7 @@ _You can easily deploy this bot yourself. Follow the steps below._
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/abhinai2244/LINK-SHAREBOT.git
+    git clone https://github.com/
     cd LINK-SHAREBOT
     ```
 
