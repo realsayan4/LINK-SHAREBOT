@@ -49,7 +49,7 @@ _You can easily deploy this bot yourself. Follow the steps below._
 1.  **Clone the repository:**
     ```bash
     git clone https://github.com/
-    cd LINK-SHAREBOT
+
     ```
 
 2.  **Install dependencies:**
