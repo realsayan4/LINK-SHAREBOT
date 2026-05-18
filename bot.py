@@ -86,14 +86,14 @@ class Bot(Client):
                 photo="https://ibb.co/DH3N4Lyr",
                 caption=("**I ʀᴇsᴛᴀʀᴛᴇᴅ ᴀɢᴀɪɴ !**"),
                 reply_markup=InlineKeyboardMarkup(
-                    [[InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇs", url="https://t.me/CantarellaBots")]]
+                    [[InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇs", url="https://t.me/realsayan")]]
                 )
             )
         except Exception as e:
             self.LOGGER(__name__).warning(f"Failed to send bot start message in {DATABASE_CHANNEL}: {e}")
         
         self.set_parse_mode(ParseMode.HTML)
-        self.LOGGER(__name__).info("Wew...Bot is running...⚡  Credit:- @CantarellaBots")
+        self.LOGGER(__name__).info("Wew...Bot is running...⚡  Credit:- @realsayan")
         self.LOGGER(__name__).info(f"{name}")
         self.username = usr_bot_me.username
         
