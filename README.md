@@ -1,4 +1,4 @@
-# ─「<u>Lɪɴᴋ sʜᴀʀᴇ ʙᴏᴛ</u>」─
+# <u>Lɪɴᴋ sʜᴀʀᴇ ʙᴏᴛ</u>」
 
 <p align="center">
   <img src="assets/img.jpg" alt="Bot Channels" width="1920"/>
