@@ -77,17 +77,3 @@ _You can easily deploy this bot yourself. Follow the steps below._
     python3 bot.py
     ```
 
----
-
-## Credits:-
-
-_This bot was made possible with the help and support of the following individuals:_
-
--   **[ABHINAI](https://t.me/about_zani)**
--   **[ABHINAV](https://t.me/adityaabhinav)**
--   **[MASTER](https://t.me/V_Sbotmaker)**
-
-- **[CantarellaBots](https://t.me/cantarellabots)**
-
-- **Base Repo**:- **[CodeFlix](https://github.com/Codeflix-Bots/Links-Share-Bot.git)**
----
