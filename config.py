@@ -4,13 +4,13 @@ from os import environ
 import logging
 from logging.handlers import RotatingFileHandler
 
-TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "")
+TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "0")
 BOT_USERNAME = 'AnimeSphere_Link_bot'
-APP_ID = int(os.environ.get("APP_ID", ""))
-API_HASH = os.environ.get("API_HASH", "")
-    OWNER_ID = int(os.environ.get("OWNER_ID", ""))
+APP_ID = int(os.environ.get("APP_ID", "0"))
+API_HASH = os.environ.get("API_HASH", "0")
+    OWNER_ID = int(os.environ.get("OWNER_ID", "0"))
 PORT = os.environ.get("PORT", "8080")
-DB_URL = os.environ.get("DB_URI", "")
+DB_URL = os.environ.get("DB_URI", "0")
 DB_NAME = os.environ.get("DB_NAME", "AnimeSphereBot")
 TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "40"))
 COMMAND_PHOTO = os.environ.get("COMMAND_PHOTO", "https://i.ibb.co/TVSCV08r/x.jpg/")
@@ -27,7 +27,7 @@ HELP_TXT =  os.environ.get("HELP_MESSAGE", "⚠️ Hello {mention} ~\n\n <b><blo
 FSUB_PIC = os.environ.get("FSUB_PIC", "https://i.ibb.co/39HQzF1B/x.jpg")
 FSUB_LINK_EXPIRY = 300
 LOG_FILE_NAME = "AnimeSpbere.txt"
-DATABASE_CHANNEL = int(os.environ.get("DATABASE_CHANNEL", "1003602220219"))
+DATABASE_CHANNEL = int(os.environ.get("DATABASE_CHANNEL", "0"))
 
 logging.basicConfig(
     level=logging.INFO,
