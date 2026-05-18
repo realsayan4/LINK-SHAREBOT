@@ -4,13 +4,13 @@ from os import environ
 import logging
 from logging.handlers import RotatingFileHandler
 
-TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "7920587370:AAHviJioy0Z9nm6-2pMVdNVrOPxNmY8NhQQ")
+TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "")
 BOT_USERNAME = 'AnimeSphere_Link_bot'
-APP_ID = int(os.environ.get("APP_ID", "34577102"))
-API_HASH = os.environ.get("API_HASH", "51cadbdc54b4b32db5f417a7ae26b3d9")
-    OWNER_ID = int(os.environ.get("OWNER_ID", "6843103223"))
+APP_ID = int(os.environ.get("APP_ID", ""))
+API_HASH = os.environ.get("API_HASH", "")
+    OWNER_ID = int(os.environ.get("OWNER_ID", ""))
 PORT = os.environ.get("PORT", "8080")
-DB_URL = os.environ.get("DB_URI", "mongodb+srv://realsayan4_db_user:<db_password>@cluster0.aoib63n.mongodb.net/?appName=Cluster0")
+DB_URL = os.environ.get("DB_URI", "")
 DB_NAME = os.environ.get("DB_NAME", "AnimeSphereBot")
 TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "40"))
 COMMAND_PHOTO = os.environ.get("COMMAND_PHOTO", "https://i.ibb.co/TVSCV08r/x.jpg/")
