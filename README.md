@@ -4,7 +4,7 @@
   <img src="assets/img.jpg" alt="Bot Channels" width="1920"/>
 </p>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=THIS+IS+A+ADVANCE+LINK+SHARE!+BOT;CREATED+BY+Cantarella+BOTS)</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=THIS+IS+A+ADVANCE+LINK+SHARE!+BOT;CREATED+BY+AnimeSphere+BOTS)</p>
 </p>
 
 <b><i>A powerful and dynamic Telegram bot designed to share links from specific channels, protecting them from copyright issues. It features a fully interactive, button-based UI and can be configured dynamically by the owner.</i></b>
