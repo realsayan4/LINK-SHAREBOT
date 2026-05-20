@@ -1,7 +1,6 @@
 # <u>Lɪɴᴋ sʜᴀʀᴇ ʙᴏᴛ</u>
 
 <p align="center">
-<p align="center">
   <img src="assets/IMG_4126.jpeg" alt="Bot Channels" width="300"/>
 </p>
 
