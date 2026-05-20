@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/realsayan4/LINK-SHAREBOT/master/assets/IMG_4126.jpeg" width="300">
 </p
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira%20Code&lines=THIS+IS+A+ADVANCE+LINK+SHARE!+BOT;CREATED+BY+AnimeSphere+BOTS)</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira%20Code&lines=THIS+IS+A+ADVANCE+LINK+SHARE!+BOT;CREATED+BY+ANIME SPHERE+BOTS)</p>
 </p>
 
 <b><i>A powerful and dynamic Telegram bot designed to share links from specific channels, protecting them from copyright issues. It features a fully interactive, button-based UI and can be configured dynamically by the owner.</i></b>
