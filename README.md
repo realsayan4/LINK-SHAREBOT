@@ -1,8 +1,8 @@
 # <u>Lɪɴᴋ sʜᴀʀᴇ ʙᴏᴛ</u>
 
 <p align="center">
-  <img src="assets/IMG_4126.jpeg" alt="Bot Channels" width="300"/>
-</p>
+  <img src="https://raw.githubusercontent.com/realsayan4/LINK-SHAREBOT/master/assets/IMG_4126.jpeg" width="300">
+</p
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=THIS+IS+A+ADVANCE+LINK+SHARE!+BOT;CREATED+BY+AnimeSphere+BOTS)</p>
 </p>
