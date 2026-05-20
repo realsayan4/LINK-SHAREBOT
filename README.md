@@ -1,7 +1,8 @@
 # <u>Lɪɴᴋ sʜᴀʀᴇ ʙᴏᴛ</u>
 
 <p align="center">
-  <img src="assets/src="assets/IMG_4126.jpeg" alt="Bot Channels" width="1920"/>
+<p align="center">
+  <img src="assets/IMG_4126.jpeg" alt="Bot Channels" width="300"/>
 </p>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=THIS+IS+A+ADVANCE+LINK+SHARE!+BOT;CREATED+BY+AnimeSphere+BOTS)</p>
